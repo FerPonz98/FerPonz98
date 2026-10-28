@@ -121,7 +121,6 @@ Workflows connecting forms, email, spreadsheets and external services to remove 
 |---|---|---|
 | 🛒 **International E-commerce** | B2C store in 7 languages, 2 currencies, inventory and admin panel | Laravel · Payment gateway |
 | 🌐 [**Oddly Landing**](https://github.com/FerPonz98/Landing-Oddly) | Website for the Oddly marketing agency | Next.js · Tailwind |
-| 🎲 **Roblox Dice Game** | Dice game with rarities, visual effects and monetization | Lua · Roblox Studio |
 
 </details>
 
