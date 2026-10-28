@@ -26,7 +26,7 @@
 ```js
 const fernando = {
   role:      "Full Stack Developer",
-  focus:     ["Custom web systems", "Applied AI", "Automation"],
+  focus:     ["Custom web systems", "Applied AI", "Automation", "VR"],
   currently: "Tech Lead at Oddly · Digital marketing agency",
   studying:  "Postgraduate in AI for Developers @ FIAP",
   location:  "Bolivia 🇧🇴 · Remote-friendly",
@@ -104,10 +104,10 @@ Tumor classification with **95% recall** and **99.5% ROC-AUC**, SHAP explainabil
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ n8n Automations
-![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/APIs-06B6D4?style=flat-square) ![](https://img.shields.io/badge/Webhooks-0d1117?style=flat-square)
+### 🥽 [VR Industrial Automation Simulator](https://github.com/FerPonz98/Sistema_Interactivo_UCB)
+![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/Meta%20Quest-0467DF?style=flat-square&logo=meta&logoColor=white) ![](https://img.shields.io/badge/OpenXR-F97316?style=flat-square)
 
-Workflows connecting forms, email, spreadsheets and external services to remove manual work. *(describe your workflows here)*
+Immersive educational simulator for Mechatronics students: wire pneumatic cylinders and valves controlled by PLC logic, with free and time-trial modes, progressive difficulty and visual feedback. Built for Meta Quest 2/3 with a university.
 
 </td>
 </tr>
@@ -120,6 +120,7 @@ Workflows connecting forms, email, spreadsheets and external services to remove 
 | Project | Description | Stack |
 |---|---|---|
 | 🛒 **International E-commerce** | B2C store in 7 languages, 2 currencies, inventory and admin panel | Laravel · Payment gateway |
+| ⚙️ **n8n Automations** | Workflows connecting forms, email, spreadsheets and external services | n8n · APIs · Webhooks |
 | 🌐 [**Oddly Landing**](https://github.com/FerPonz98/Landing-Oddly) | Website for the Oddly marketing agency | Next.js · Tailwind |
 
 </details>
@@ -130,7 +131,8 @@ Workflows connecting forms, email, spreadsheets and external services to remove 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,react,nextjs,tailwind&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,vercel&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" />
 </p>
 
 <p align="center">
