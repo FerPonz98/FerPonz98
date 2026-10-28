@@ -1,71 +1,69 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:7c2d12,75:ea580c,100:f97316&height=230&section=header&text=Fernando%20Ponz&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20IA%20Aplicada%20%E2%80%A2%20Automatizaci%C3%B3n&descAlignY=63&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:7c2d12,75:ea580c,100:f97316&height=230&section=header&text=Fernando%20Ponz&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Automation&descAlignY=63&descSize=18" width="100%" />
 </p>
 
-<!-- ===================== TEXTO ANIMADO ===================== -->
+<!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Construyo+software+que+resuelve+problemas+reales;Sistemas+web+a+medida+de+principio+a+fin;Asistentes+con+IA+sobre+tus+documentos;Automatizo+procesos+para+ahorrar+horas+de+trabajo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=I+build+software+that+solves+real+problems;Custom+web+systems+from+idea+to+deploy;AI+assistants+that+answer+from+your+documents;Automations+that+save+hours+of+manual+work" alt="Typing SVG" />
 </p>
 
-<!-- ===================== DISPONIBILIDAD + CONTACTO ===================== -->
+<!-- ===================== AVAILABILITY + CONTACT ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20Disponible-Freelance%20y%20Full--time-22C55E?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to-Freelance%20%26%20Full--time-22C55E?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
   <a href="mailto:ferponz90@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/591XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fernando-ponz-988b37180/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ferponz98.github.io"><img src="https://img.shields.io/badge/Portafolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="ENLACE_A_TU_CV"><img src="https://img.shields.io/badge/Descargar%20CV-0d1117?style=for-the-badge&logo=readdotcv&logoColor=F97316" /></a>
+  <a href="https://ferponz98.github.io"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:22d3ee&height=3&section=header" width="100%" />
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+sobre_mi" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+about_me" />
 
 ```js
 const fernando = {
-  rol:         "Full Stack Developer",
-  enfoque:     ["Sistemas web a medida", "IA aplicada", "Automatización"],
-  actualmente: "Tech Lead en Oddly · Agencia de marketing digital",
-  estudiando:  "Pós-graduação en IA para Desarrolladores @ FIAP",
-  ubicacion:   "Bolivia 🇧🇴 · Trabajo remoto",
-  idiomas:     ["Español", "Portugués", "Inglés"],
+  role:      "Full Stack Developer",
+  focus:     ["Custom web systems", "Applied AI", "Automation"],
+  currently: "Tech Lead at Oddly · Digital marketing agency",
+  studying:  "Postgraduate in AI for Developers @ FIAP",
+  location:  "Bolivia 🇧🇴 · Remote-friendly",
+  languages: ["Spanish", "Portuguese", "English"],
 };
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:22d3ee&height=3&section=header" width="100%" />
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+que_puedo_hacer" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+what_i_do" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Sistemas web a medida
-Plataformas de gestión con roles, paneles administrativos y flujos de aprobación, del análisis al deploy.
+### 💻 Custom Web Systems
+Management platforms with role-based access, admin dashboards and approval workflows, from analysis to deployment.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Inteligencia Artificial
-Chatbots que responden sobre tus documentos (RAG), modelos de Machine Learning e integración de LLMs.
+### 🤖 Artificial Intelligence
+Chatbots that answer from your own documents (RAG), Machine Learning models and LLM integrations.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automatización
-Flujos con n8n y APIs que conectan tus herramientas y eliminan tareas repetitivas.
+### ⚙️ Automation
+n8n and API workflows that connect your tools and eliminate repetitive tasks.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-commerce y Landing Pages
-Tiendas online multi-idioma y multi-moneda, y landings rápidas orientadas a conversión.
+### 🛒 E-commerce & Landing Pages
+Multi-language, multi-currency online stores and fast, conversion-focused landing pages.
 
 </td>
 </tr>
@@ -73,63 +71,63 @@ Tiendas online multi-idioma y multi-moneda, y landings rápidas orientadas a con
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:22d3ee&height=3&section=header" width="100%" />
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+proyectos_destacados" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+featured_projects" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Portal institucional con asistente IA
+### 🤖 Institutional Portal with AI Assistant
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/RAG-F97316?style=flat-square) ![](https://img.shields.io/badge/Embeddings-06B6D4?style=flat-square) ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Problema:** consultar estatutos y normativas extensas tomaba horas.<br>
-**Solución:** portal con gestión de usuarios por roles, repositorio de documentos y un chat que responde preguntas citando los documentos oficiales.
+**Problem:** searching through long bylaws and regulations took hours.<br>
+**Solution:** a portal with role-based user management, a document repository and a chat that answers questions citing the official documents.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Ecosistema digital para organizaciones ![](https://img.shields.io/badge/En%20desarrollo-F97316?style=flat-square)
+### 🌐 Digital Ecosystem for Organizations ![](https://img.shields.io/badge/In%20progress-F97316?style=flat-square)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Plataforma integral para organizaciones con estructura jerárquica: gestión de miembros, votaciones anónimas, actas con flujo de aprobación, asistencia por geolocalización, tesorería con pagos por webhook y red profesional interna.
+All-in-one platform for hierarchical organizations: member management, anonymous voting, meeting minutes with approval flow, geolocation attendance, webhook-based payments and an internal professional network.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [Machine Learning para diagnóstico médico](https://github.com/nacnaya/FIAP_TechChallenge_01_2026)
+### 🧬 [Machine Learning for Medical Diagnosis](https://github.com/nacnaya/FIAP_TechChallenge_01_2026)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-Clasificación de tumores con **95% de recall** y **99.5% de ROC-AUC**, explicabilidad con SHAP, CNN con transfer learning y optimización con algoritmos genéticos + LLM.
+Tumor classification with **95% recall** and **99.5% ROC-AUC**, SHAP explainability, a CNN with transfer learning, and optimization using genetic algorithms + LLMs.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automatizaciones con n8n
+### ⚙️ n8n Automations
 ![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/APIs-06B6D4?style=flat-square) ![](https://img.shields.io/badge/Webhooks-0d1117?style=flat-square)
 
-Flujos que conectan formularios, correo, hojas de cálculo y servicios externos para eliminar trabajo manual. *(describe aquí tus flujos)*
+Workflows connecting forms, email, spreadsheets and external services to remove manual work. *(describe your workflows here)*
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📂 Ver más proyectos</b></summary>
+<summary><b>📂 More projects</b></summary>
 <br>
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🛒 **E-commerce internacional** | Tienda B2C en 7 idiomas, 2 monedas, inventario y panel admin | Laravel · Pasarela de pagos |
-| 🌐 [**Landing Oddly**](https://github.com/FerPonz98/Landing-Oddly) | Sitio de la agencia de marketing Oddly | Next.js · Tailwind |
-| 🎲 **Juego de dados en Roblox** | Juego tipo Cacho con rarezas, efectos y monetización | Lua · Roblox Studio |
+| 🛒 **International E-commerce** | B2C store in 7 languages, 2 currencies, inventory and admin panel | Laravel · Payment gateway |
+| 🌐 [**Oddly Landing**](https://github.com/FerPonz98/Landing-Oddly) | Website for the Oddly marketing agency | Next.js · Tailwind |
+| 🎲 **Roblox Dice Game** | Dice game with rarities, visual effects and monetization | Lua · Roblox Studio |
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:22d3ee&height=3&section=header" width="100%" />
 
-## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+stack" />
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=10000&color=F97316&vCenter=true&width=320&height=35&lines=%3E+tech_stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,react,nextjs,tailwind&theme=dark" /><br>
@@ -145,7 +143,7 @@ Flujos que conectan formularios, correo, hojas de cálculo y servicios externos 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:22d3ee&height=3&section=header" width="100%" />
 
-<!-- ===================== SERPIENTE (necesita snake.yml) ===================== -->
+<!-- ===================== SNAKE (requires snake.yml) ===================== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerPonz98/FerPonz98/output/github-snake-dark.svg" />
@@ -154,13 +152,13 @@ Flujos que conectan formularios, correo, hojas de cálculo y servicios externos 
   </picture>
 </p>
 
-<!-- ===================== CIERRE ===================== -->
+<!-- ===================== CLOSING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%C2%BFTienes+un+proyecto+en+mente%3F;Escr%C3%ADbeme+y+lo+hacemos+realidad+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Have+a+project+in+mind%3F;Let%27s+build+it+together+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FerPonz98&style=flat-square&color=F97316&label=Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=FerPonz98&style=flat-square&color=F97316&label=Profile+views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,40:ea580c,75:7c2d12,100:0d1117&height=120&section=footer" width="100%" />
